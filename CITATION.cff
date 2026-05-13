@@ -1,0 +1,17 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "González-Pulido"
+  given-names: "Laura"
+  orcid: "https://orcid.org/0009-0000-5436-7797"
+- family-names: "González del Portillo"
+  given-names: "David"
+  orcid: "https://orcid.org/0000-0001-7148-6595"
+- family-names: "Moreno Zárate"
+  given-names: "Lara"
+  orcid: "https://orcid.org/0000-0002-4152-3145"
+title: "assessing-CAP-measures-with-GPS"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-05-13
+url: "https://github.com/lauragonzalezpulido/assessing-CAP-measures-with-GPS"
